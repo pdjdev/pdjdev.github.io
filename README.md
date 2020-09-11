@@ -11,7 +11,7 @@
 [PBJSoftware](https://sw.pbj.kr)라는 이름으로 개인적으로 프로그램을 개발하고 있습니다.
 
 ## History
-### Keyongbuk High School
+### Kyeongbuk High School
 #### 2014 - 2019 (Graduated)
 - 교내 학급 웹페이지 관리/운영 담당
 - 컴퓨터 동아리 부장 활동
